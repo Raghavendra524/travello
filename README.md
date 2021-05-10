@@ -2,7 +2,7 @@
 traveller project using python DJANGO framework...
 
 DESCRIPTION:
-Now-a-days, people wanted to meet the travel agents online to make their trip.so, For the neccessity of people,
+Now-a-days, people wanted to meet the travel agents online to make their trip. so, For the neccessity of people,
 This website has designed to communicate with the people who are interested in travelling. This website has
 created the database for the people to have thier own accounts in the organization.so, every customer is a part 
 organization.
